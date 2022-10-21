@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ayushavr14
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning HTML, Css ,Javascript ,Reactjs ,Tailwind css,NodeJs ,ExpressJs ,Mongodb.
+- 📫 How to reach me mail: ayushavr007@gmail.com
+- portfolio link https://ayushav-portfolio.netlify.app/
