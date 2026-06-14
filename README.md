@@ -114,8 +114,6 @@ Movie discovery app powered by the TMDB API — browse trending, top-rated, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushavr14&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushavr14&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
